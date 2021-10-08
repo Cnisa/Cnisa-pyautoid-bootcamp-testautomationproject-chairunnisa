@@ -1,14 +1,14 @@
-**Framework : pytest**
+Framework : pytest
 
-**Programming Language : python**
+Programming Language : python
 
-
+File Name : test_tugas05.py
 
 **Scenario Test**
 
 ![image](https://user-images.githubusercontent.com/49749221/136492025-b306f9ca-97f3-4e9f-b072-49e49c72ddf3.png)
 
-**File Name : test_tugas05.py**
+
 
 **Step write code:**
 1. User imports library
@@ -27,7 +27,7 @@
 
 **The Result:**
 
-You will see the result in Terminal : If **Success**, you will see green text with information 'PASSED'. If **Fail**, you will see red text with text with information 'FAILED'
+You will see the result in Terminal: If **Success**, you will see green text with information 'PASSED'. If **Fail**, you will see red text with text with information 'FAILED'
 
 
 
