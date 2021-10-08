@@ -1,30 +1,9 @@
 Framework : pytest
 Programming Language : python
 
-Feature: Login
+Test Case
+![image](https://user-images.githubusercontent.com/49749221/136492025-b306f9ca-97f3-4e9f-b072-49e49c72ddf3.png)
 
-  @valid
-  Scenario: Login in Github successfully
-    Given User have already access Login Page and already have account in Github
-    When User input username or email "testingkaryasa21@gmail.com"
-    And User input password "carrot2348."
-    Then The user should login successfully and should see her name when he clicks on the avatar icon
-    
-  @invalid
-  Scenario Outline: Login in Github failed
-    Given User have already access Login Page and already have account in Github
-    When User input username or email with invalid data <email>
-    And User input password with invalid data <password>
-    Then The user should login is failed and shoul see error message "Incorrect username or password."
-    
-    |email                      |password      |
-    |testingkaryasa21@gmail.com |carrot2348    |
-    |testingsaja@gmail.com      |carrot2348.   |
-    |testingkaryasa21           |rambutan123@  |
-    |                           |carrot2348.   |
-    |testingkaryasa21@gmail.com |              |
-    
-    
 name file : test_tugas05.py
 
 Step write code:
