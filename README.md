@@ -8,7 +8,6 @@ Programming Language : python**
 **File Name : test_tugas05.py**
 
 **Step write code:**
-
 1. User imports library
 2. User create a list to accommodate invalid user data named "Account"
 3. User write @pytest.fixture to group steps / code that is run repeatedly and create function setup()
