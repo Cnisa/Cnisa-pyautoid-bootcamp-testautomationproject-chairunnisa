@@ -23,6 +23,7 @@ Programming Language : python**
 5. Then press enter
 
 **The Result:**
+
 You will see the result in Terminal : If **Success**, you will see green text with information 'PASSED'. If **Fail**, you will see red text with text with information 'FAILED'
 
 
