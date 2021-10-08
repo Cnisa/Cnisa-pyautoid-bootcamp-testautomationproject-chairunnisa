@@ -8,8 +8,6 @@ Programming Language : python**
 **File Name : test_tugas05.py**
 **Step write code:**
 1. User imports library
-
-![image](https://user-images.githubusercontent.com/49749221/136488888-e13bab59-eb39-4a0b-aad0-619ddec0420b.png)
 2. User create a list to accommodate invalid user data named "Account"
 3. User write @pytest.fixture to group steps / code that is run repeatedly and create function setup()
 4. User create function test_login_success() for login successfully
